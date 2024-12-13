@@ -1,0 +1,22 @@
+[
+  {
+    "time": "2024-12-10 10:25:42",
+    "type": "可回收物",
+    "image": "history_images/image_20241210_102542.jpg"
+  },
+  {
+    "time": "2024-12-10 10:38:31",
+    "type": "厨余垃圾",
+    "image": "history_images/image_20241210_103831.jpg"
+  },
+  {
+    "time": "2024-12-10 10:51:29",
+    "type": "可回收物",
+    "image": "history_images/image_20241210_105129.jpg"
+  },
+  {
+    "time": "2024-12-10 11:02:51",
+    "type": "其他垃圾",
+    "image": "history_images/image_20241210_110251.jpg"
+  }
+]
