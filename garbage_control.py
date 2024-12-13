@@ -9,7 +9,7 @@ WIFI_SSID = "你的WiFi名称"
 WIFI_PASSWORD = "你的WiFi密码"
 
 # MQTT配置
-MQTT_BROKER = "1.94.212.189"
+MQTT_BROKER = "你的MQTT服务器"
 MQTT_PORT = 1883
 MQTT_TOPIC = b"garbage/category"
 CLIENT_ID = "esp32_garbage_control"

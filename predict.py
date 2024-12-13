@@ -66,7 +66,7 @@ class GarbageClassificationApp(QMainWindow):
         self.voice_lock = threading.Lock()
         
         # MQTT配置
-        self.MQTT_BROKER = "1.94.212.189"
+        self.MQTT_BROKER = "你的MQTT服务器"
         self.MQTT_PORT = 1883
         self.MQTT_TOPIC = "garbage/category"
         self.mqtt_client = None
